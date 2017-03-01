@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+
+# Hello everybody and welcome to my page! 
+
+## This page is created for the class of 141B- Data Technology and Web Applications taught by Prof. James Sharpnack. 
+## Hopefully, I'll have time to add links to the codes I have been working on during this class so that you can access them. Each notebook, do different tasks and use different modules. 
+
+  
+  
+ Thanks for visiting! 
 
 You can use the [editor on GitHub](https://github.com/dlebron12/dlebron12.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
