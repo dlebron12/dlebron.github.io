@@ -1,7 +1,9 @@
 
 # About Me: 
 
-![Image](https://www.gemfellowship.org/wp-content/uploads/2016/07/Lebron-Dayanara.jpg)
+<p align="center">
+  <img src="https://www.gemfellowship.org/wp-content/uploads/2016/07/Lebron-Dayanara.jpg" alt="My-pic"/>
+</p>
 
 I am a Statistics master's student at UC Davis. I possess a bachelors degree in Bio-Mathematics from Universidad Metropolitana, Cupey Campus in Puerto Rico, where I am native from. 
 
