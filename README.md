@@ -8,8 +8,7 @@ Currently, I am working at Livermore National Laboratory in the area of Bioinfor
 **CS Skills:** C++, R, Perl, Bash and now Python! 
 
 - **Published Papers:**
-1. Lebrón-Aldea, D., Dhurandhar, E. J., Pérez-Rodríguez, P., Klimentidis, Y. C., Tiwari, H. K., & Vazquez, A. I. (2015). Integrated genomic and BMI analysis for type 2 diabetes risk assessment. Frontiers in Genetics, 6, 75. http://doi.org/10.3389/fgene.2015.00075
-
+1. Lebrón-Aldea, D., Dhurandhar, E. J., Pérez-Rodríguez, P., Klimentidis, Y. C., Tiwari, H. K., & Vazquez, A. I. (2015). Integrated genomic and BMI analysis for type 2 diabetes risk assessment. Frontiers in Genetics, 6, 75. [link_to_paper]( http://doi.org/10.3389/fgene.2015.00075)
 
 
 - **Classes in Stats:**
