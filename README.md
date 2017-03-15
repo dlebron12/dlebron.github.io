@@ -1,9 +1,11 @@
 
 # About Me: 
 
+![Image](https://www.gemfellowship.org/wp-content/uploads/2016/07/Lebron-Dayanara.jpg)
+
 I am a Statistics master's student at UC Davis. I possess a bachelors degree in Bio-Mathematics from Universidad Metropolitana, Cupey Campus in Puerto Rico, where I am native from. 
 
-Currently, I am working at Livermore National Laboratory in the area of Bioinformatics. My research interests are in: statistical genetics, bioinformatics, data mining and would like to indulge into machine learning.
+Currently, I am working at Livermore National Laboratory in the area of Bioinformatics. My research interests are in: statistical genetics, bioinformatics and data mining. Nevertheless, I would like to indulge into machine learning.
 
 **CS Skills:** C++, R, Perl, Bash and now Python! 
 
@@ -12,7 +14,7 @@ Currently, I am working at Livermore National Laboratory in the area of Bioinfor
 
 
 - **Classes in Stats:**
-STA 106: Analysis of Variance, STA 108: Regression Analysis, STA 141B: Data Technologies and Web Applications, STA 141A: Statistical Data Science, STA 200A: Probablity Theory, STA 200B: Mathematical Statistics. 
+1. STA 106: Analysis of Variance, STA 108: Regression Analysis, STA 141B: Data Technologies and Web Applications, STA 141A: Statistical Data Science, STA 200A: Probablity Theory, STA 200B: Mathematical Statistics. 
 
 
 
