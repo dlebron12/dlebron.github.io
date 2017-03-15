@@ -1,10 +1,15 @@
 
-# Hello everybody and welcome to my page! 
+# About Me: 
 
-This page is created for the class of 141B- Data Technology and Web Applications taught by Prof. James Sharpnack. 
-Hopefully, I'll have time to add links to the codes I have been working on during this class so that you can access them. Each notebook, do different tasks and use different modules. 
+I am a Statistics master's student at UC Davis. I possess a bachelors degree in Bio-Mathematics from Universidad Metropolitana, Cupey Campus in Puerto Rico, where I am native from. 
 
- Thanks for visiting! 
+Currently, I am working at Livermore National Laboratory in the area of Bioinformatics. My research interests are in: statistical genetics, bioinformatics, data mining and would like to indulge into machine learning.
+
+**CS Skills: ** C++, R, Perl, Bash and now Python! 
+
+This page is created for the class of 141B- Data Technology and Web Applications taught by [Prof. James Sharpnack](https://jsharpna.github.io).  The following links direct you to the jupyter notebook containing some of the assignments, I've worked on during this class so that you can access them. In each notebook, I learned how to do different tasks and used different modules. 
+
+## Thanks for visiting! 
 
 You can use the [editor on GitHub](https://github.com/dlebron12/dlebron12.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
