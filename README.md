@@ -5,7 +5,13 @@ I am a Statistics master's student at UC Davis. I possess a bachelors degree in 
 
 Currently, I am working at Livermore National Laboratory in the area of Bioinformatics. My research interests are in: statistical genetics, bioinformatics, data mining and would like to indulge into machine learning.
 
-**CS Skills: ** C++, R, Perl, Bash and now Python! 
+**CS Skills:** C++, R, Perl, Bash and now Python! 
+
+- **Published Papers:**
+1. Lebrón-Aldea, D., Dhurandhar, E. J., Pérez-Rodríguez, P., Klimentidis, Y. C., Tiwari, H. K., & Vazquez, A. I. (2015). Integrated genomic and BMI analysis for type 2 diabetes risk assessment. Frontiers in Genetics, 6, 75. http://doi.org/10.3389/fgene.2015.00075
+
+
+**Classes in Stats:**
 
 This page is created for the class of 141B- Data Technology and Web Applications taught by [Prof. James Sharpnack](https://jsharpna.github.io).  The following links direct you to the jupyter notebook containing some of the assignments, I've worked on during this class so that you can access them. In each notebook, I learned how to do different tasks and used different modules. 
 
