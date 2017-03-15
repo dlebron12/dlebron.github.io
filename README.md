@@ -18,7 +18,7 @@ My research interests are in: statistical genetics, bioinformatics and data mini
 - **Classes in Stats:**
 1. STA 106: Analysis of Variance, STA 108: Regression Analysis, STA 141B: Data Technologies and Web Applications, STA 141A: Statistical Data Science, STA 200A: Probablity Theory, STA 200B: Mathematical Statistics. 
 
-### Interested in my resume? You can download it here: [resume]
+### Interested in my resume? You can download it here: [resume](dlebron12.github.io/Resume_2016.pdf)
 
 
 
