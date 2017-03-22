@@ -21,8 +21,10 @@ My research interests are in: statistical genetics, bioinformatics and data mini
 ### Interested in my resume? You can download it here: [resume](dlebron12.github.io/Resume_2016.pdf)
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="dayanara-lebron-b703b698"><a class="LI-simple-link" href='https://www.linkedin.com/in/dayanara-lebron-b703b698?trk=profile-badge'>Dayanara Lebron</a></div>
 
+<p align="center">
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="dayanara-lebron-b703b698"><a class="LI-simple-link" href='https://www.linkedin.com/in/dayanara-lebron-b703b698?trk=profile-badge'>Dayanara Lebron</a></div>
+</p>
 
 This page is created for the class of 141B- Data Technology and Web Applications taught by [Prof. James Sharpnack](https://jsharpna.github.io).  The following links direct you to the jupyter notebook containing some of the assignments, I've worked on during this class so that you can access them. In each notebook, I learned how to do different tasks and used different modules. 
 
