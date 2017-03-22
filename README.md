@@ -25,7 +25,7 @@ My research interests are in: statistical genetics, bioinformatics and data mini
 
 ### **Updating Livermore Metagenomics Analysis Toolkit (LMAT) Database: Screening novel microbial genomes to improve infectious disease diagnostics** 
 
-![] (dlebron12.github.io/Poster_Expo2016.jea.pdf) 
+![](dlebron12.github.io/Poster_Expo2016.jea.pdf) 
 
 # Disclaimer:
 This page is created for the class of 141B- Data Technology and Web Applications taught by [Prof. James Sharpnack](https://jsharpna.github.io).  The following links direct you to the jupyter notebook containing some of the assignments, I've worked on during this class so that you can access them. In each notebook, I learned how to do different tasks and used different modules. 
