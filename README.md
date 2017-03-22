@@ -24,9 +24,15 @@ My research interests are in: statistical genetics, bioinformatics and data mini
 ### **Exploring Stock Correlation of the S&P 500 Index** 
 This project was done in collaboration with Tongke Wu and Wenquian Li.  It focuses on the analyis of the close stock prices for the S&P 500 for the years 2008-2016. We explored this data by looking at trends of sectors over the years, correlations among stocks and exploring the diverse applications such as portfolio selection, and its performance in the market.  Our dataset allowed us to observe the effect that crisis has on the market, and also how stock are interrelated through the use of network visualizations and relatedness statistics. 
 
-![]()
-
 You can follow in depth this project by redirecting to its page:[Stock_Correlation]()
+
+![](dlebron12.github.io/corr_2010_s1.png)
+
+- Example: Comparing three stocks in Information and Technology over Time. 
+<div>
+    <a href="https://plot.ly/~dayi1292/4/?share_key=Qo6vZYAS97BNerSYNPMJD9" target="_blank" title="google-stock_scatter" style="display: block; text-align: center;"><img src="https://plot.ly/~dayi1292/4.png?share_key=Qo6vZYAS97BNerSYNPMJD9" alt="google-stock_scatter" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="dayi1292:4" sharekey-plotly="Qo6vZYAS97BNerSYNPMJD9" src="https://plot.ly/embed.js" async></script>
+</div>
 
 
 ### **Updating Livermore Metagenomics Analysis Toolkit (LMAT) Database: Screening novel microbial genomes to improve infectious disease diagnostics** 
