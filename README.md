@@ -21,8 +21,8 @@ My research interests are in: statistical genetics, bioinformatics and data mini
 ### Interested in my resume? You can download it here: [resume](dlebron12.github.io/Resume_2016.pdf)
 
 # Projects:
-- ** Exploring Stock Correlation of the S&P 500 Index ** 
-- ** Updating Livermore Metagenomics Database: Screening novel microbial genomes to improve infectious disease diagnostics** 
+- **Exploring Stock Correlation of the S&P 500 Index** 
+- **Updating Livermore Metagenomics Database: Screening novel microbial genomes to improve infectious disease diagnostics** 
 
 # Disclaimer:
 This page is created for the class of 141B- Data Technology and Web Applications taught by [Prof. James Sharpnack](https://jsharpna.github.io).  The following links direct you to the jupyter notebook containing some of the assignments, I've worked on during this class so that you can access them. In each notebook, I learned how to do different tasks and used different modules. 
