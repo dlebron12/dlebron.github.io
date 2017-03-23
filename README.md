@@ -24,7 +24,7 @@ My research interests are in: statistical genetics, bioinformatics and data mini
 ### **Exploring Stock Correlation of the S&P 500 Index** 
 This project was done in collaboration with Tongke Wu and Wenquian Li.  It focuses on the analyis of the close stock prices for the S&P 500 for the years 2008-2016. We explored this data by looking at trends of sectors over the years, correlations among stocks and exploring the diverse applications such as portfolio selection, and its performance in the market.  Our dataset allowed us to observe the effect that crisis has on the market, and also how stock are interrelated through the use of network visualizations and relatedness statistics. 
 
-You can follow in depth this project by redirecting to its page:[Stock_Correlation]()
+You can follow in depth this project by redirecting to its page:[Stock_Correlation](https://verali0816.github.io/Stock-Correlation/)
 
 ![](dlebron12.github.io/corr_2010_s1.png)
 
