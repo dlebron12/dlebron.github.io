@@ -39,7 +39,7 @@ You can follow in depth this project by redirecting to its page:[Stock_Correlati
 
 The Livermore Metagenomic Analysis Toolkit was built by my mentor Jonathan Allen and peers, at Lawrence Livermore National Laboratory.  LMAT contains the complete genomes of NCBI up to 2015, in addition, to a large compilation of human genomes yielded to us by the Human Genome Project. LMAT is great for getting the taxonomy identification of unknown sequences. Part of my work has been to analyze and create a quality control pipeline to identify genomes that are suitable to be included in the database update. The graphic belows explain results of Phase 1 our of 5 Phases. 
 
-![](dlebron12.github.io/Poster_Expo2016.jea.pdf) 
+![](https://github.com/dlebron12/dlebron12.github.io/blob/master/Poster_Expo2016.jea.pdf) 
 
 For more descriptions of other projects, please go to my LinkedIN page. 
 
