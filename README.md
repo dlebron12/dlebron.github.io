@@ -7,7 +7,7 @@
 
 I am a Statistics master's student at UC Davis. I possess a bachelors degree in Bio-Mathematics from Universidad Metropolitana, Cupey Campus in Puerto Rico.
 
-My research interests are in: statistical genetics, bioinformatics and data mining. Nevertheless, I would like to indulge into machine learning.
+My research interests are in: statistical genetics, bioinformatics, data mining and data science. Nevertheless, I would like to indulge into machine learning.
 
 **CS Skills:** C++, R, Perl, Bash and now Python! 
 
