@@ -41,6 +41,10 @@ The Livermore Metagenomic Analysis Toolkit was built by my mentor Jonathan Allen
 
 ![](https://github.com/dlebron12/dlebron12.github.io/blob/master/Poster_Expo2016.jea.pdf) 
 
+
+### Detecting Credit Fraud 
+
+### 
 For more descriptions of other projects, please go to my LinkedIN page. 
 
 # Disclaimer:
