@@ -37,7 +37,7 @@ You can follow in depth this project by redirecting to its page:[Stock_Correlati
 
 ### Detecting Credit Fraud 
 
-![](https://github.com/dlebron12/CreditCardFraud)
+[CreditCardFraud](https://github.com/dlebron12/CreditCardFraud)
 
 For more descriptions of other projects, please go to my LinkedIN page. 
 
