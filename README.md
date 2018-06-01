@@ -16,7 +16,7 @@ My research interests are in: statistical genetics, bioinformatics, data mining 
 
 
 - **Classes in Stats:**
-1. STA 106: Analysis of Variance, STA 108: Regression Analysis, STA 141B: Data Technologies and Web Applications, STA 141A: Statistical Data Science, STA 200A: Probablity Theory, STA 200B: Into to Mathematical Statistics, STA 200C: Mathematical Statistics, STA 141C: Big Data and High Performance Computing, STA 135: Multivariate Data Analysis. 
+1. STA 106: Analysis of Variance, STA 108: Regression Analysis, STA 141B: Data Technologies and Web Applications, STA 141A: Statistical Data Science, STA 200A: Probablity Theory, STA 200B: Into to Mathematical Statistics, STA 200C: Mathematical Statistics, STA 141C: Big Data and High Performance Computing, STA 135: Multivariate Data Analysis, STA 137: Time Series Analysis, STA 138: Categorical Data Analysis, STA 206: Statistics Methods I, STA 207 Statistics Methods II, STA 208: Machine Learning, STA 243: Computational Statistics (Stochastic Methods).
 
 ### Interested in my resume? You can download it here: [resume](dlebron12.github.io/Resume_2016.pdf)
 
@@ -33,13 +33,6 @@ You can follow in depth this project by redirecting to its page:[Stock_Correlati
     <a href="https://plot.ly/~dayi1292/4/?share_key=Qo6vZYAS97BNerSYNPMJD9" target="_blank" title="google-stock_scatter" style="display: block; text-align: center;"><img src="https://plot.ly/~dayi1292/4.png?share_key=Qo6vZYAS97BNerSYNPMJD9" alt="google-stock_scatter" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="dayi1292:4" sharekey-plotly="Qo6vZYAS97BNerSYNPMJD9" src="https://plot.ly/embed.js" async></script>
 </div>
-
-
-### **Updating Livermore Metagenomics Analysis Toolkit (LMAT) Database: Screening novel microbial genomes to improve infectious disease diagnostics** 
-
-The Livermore Metagenomic Analysis Toolkit was built by my mentor Jonathan Allen and peers, at Lawrence Livermore National Laboratory.  LMAT contains the complete genomes of NCBI up to 2015, in addition, to a large compilation of human genomes yielded to us by the Human Genome Project. LMAT is great for getting the taxonomy identification of unknown sequences. Part of my work has been to analyze and create a quality control pipeline to identify genomes that are suitable to be included in the database update. The graphic belows explain results of Phase 1 our of 5 Phases. 
-
-![](https://github.com/dlebron12/dlebron12.github.io/blob/master/Poster_Expo2016.jea.pdf) 
 
 
 ### Detecting Credit Fraud 
