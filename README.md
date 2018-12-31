@@ -5,20 +5,24 @@
   <img src="https://www.gemfellowship.org/wp-content/uploads/2016/07/Lebron-Dayanara.jpg" alt="My-pic"/>
 </p>
 
-I am a Statistics master's student at UC Davis. I possess a bachelors degree in Bio-Mathematics from Universidad Metropolitana, Cupey Campus in Puerto Rico.
+I a Statistics Master's student alumni of University of California, Davis. I also possess a bachelors degree in Bio-Mathematics from the Universidad Metropolitana, Cupey Campus in Puerto Rico.
 
-My research interests are in: statistical genetics, bioinformatics, data mining and data science. Nevertheless, I would like to indulge into machine learning.
+My research interests are in: statistical genetics, bioinformatics, data mining and machine learning.  Overall, no matter what the application is, I am just passionate about data analysis and the insight data can gives us to solve several problems.  I like to think of myself as a passionate problem-solver; I tend to forget time actually exists once I am embedded in finding a solution. It can be thrilling!
 
-**CS Skills:** C++, R, Perl, Bash and now Python! 
+**CS Skills:** C++, R, Perl, Bash and Python! 
 
 - **Published Papers:**
-1. Lebrón-Aldea, D., Dhurandhar, E. J., Pérez-Rodríguez, P., Klimentidis, Y. C., Tiwari, H. K., & Vazquez, A. I. (2015). Integrated genomic and BMI analysis for type 2 diabetes risk assessment. Frontiers in Genetics, 6, 75. [link_to_paper]( http://doi.org/10.3389/fgene.2015.00075)
+Lebrón-Aldea, D., Dhurandhar, E. J., Pérez-Rodríguez, P., Klimentidis, Y. C., Tiwari, H. K., & Vazquez, A. I. (2015). Integrated genomic and BMI analysis for type 2 diabetes risk assessment. Frontiers in Genetics, 6, 75. [link_to_paper]( http://doi.org/10.3389/fgene.2015.00075)
+
+Thissen, JB …, Lebrón-Aldea, Dayanara, et.al (2018). A novel variant of torque virus 7 identified in patients with Kawasaki disease, Plos One 13(12): e0209683, doi: 10.1371/journal.pone.0209683 [link_to_paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0209683&type=printable) 
+
+Sichtig, H., …, Lebrón-Aldea, Dayanara, et.al (2018). FDA-ARGOS: A Public Quality-Controlled Genome Database Resource for Infectious Disease Sequencing Diagnostics and Regulatory Science Research, Nature Communications. doi: 10.1101/482059 [link_to_paper](https://www.biorxiv.org/content/early/2018/11/29/482059?utm_source=Nature_website&utm_medium=Website_links&utm_content=SamZim-Nature-Nature_Comms-Multidisciplinary-Global&utm_campaign=NATCOMMS_AWA_NC-UNDER-CONSID)
 
 
 - **Classes in Stats:**
-1. STA 106: Analysis of Variance, STA 108: Regression Analysis, STA 141B: Data Technologies and Web Applications, STA 141A: Statistical Data Science, STA 200A: Probablity Theory, STA 200B: Into to Mathematical Statistics, STA 200C: Mathematical Statistics, STA 141C: Big Data and High Performance Computing, STA 135: Multivariate Data Analysis, STA 137: Time Series Analysis, STA 138: Categorical Data Analysis, STA 206: Statistics Methods I, STA 207 Statistics Methods II, STA 208: Machine Learning, STA 243: Computational Statistics (Stochastic Methods).
+1. Analysis of Variance, Regression Analysis, Data Technologies and Web Applications, Statistical Data Science, Probablity Theory, Into to Mathematical Statistics, Mathematical Statistics, Big Data and High Performance Computing, Multivariate Data Analysis, Time Series Analysis, Categorical Data Analysis, Statistics Methods I, Statistics Methods II, Machine Learning, Computational Statistics (Stochastic Methods), Survival Analysis, Bioinformatics, Advanced Topics in Biostatistics.
 
-### Interested in my resume? You can download it here: [resume](dlebron12.github.io/Resume_2016.pdf)
+### Interested in my resume? You can download it here: [resume](dlebron12.github.io/Resume_2018.pdf)
 
 # Projects:
 ### **Exploring Stock Correlation of the S&P 500 Index** 
@@ -39,7 +43,13 @@ You can follow in depth this project by redirecting to its page:[Stock_Correlati
 
 [CreditCardFraud](https://github.com/dlebron12/CreditCardFraud)
 
-For more descriptions of other projects, please go to my LinkedIN page. 
+
+
+### Twitter Sentiment Analysis: Use of Classification Models for Inappropiate Tweet Content with Validation on Trump Tweets.
+[Twitter_Sentiment_Analysis](https://github.com/dlebron12/Twitter_Sentiment_Trump)
+
 
 
 ## Thanks for visiting! 
+
+For more descriptions of other projects, please go to my LinkedIN page. 
