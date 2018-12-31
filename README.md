@@ -11,12 +11,13 @@ My research interests are in: statistical genetics, bioinformatics, data mining 
 
 **CS Skills:** C++, R, Perl, Bash and Python! 
 
-- **Published Papers:**
-Lebrón-Aldea, D., Dhurandhar, E. J., Pérez-Rodríguez, P., Klimentidis, Y. C., Tiwari, H. K., & Vazquez, A. I. (2015). Integrated genomic and BMI analysis for type 2 diabetes risk assessment. Frontiers in Genetics, 6, 75. [link_to_paper]( http://doi.org/10.3389/fgene.2015.00075)
+**Published Papers:**
 
-Thissen, JB …, Lebrón-Aldea, Dayanara, et.al (2018). A novel variant of torque virus 7 identified in patients with Kawasaki disease, Plos One 13(12): e0209683, doi: 10.1371/journal.pone.0209683 [link_to_paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0209683&type=printable) 
+- Lebrón-Aldea, D., Dhurandhar, E. J., Pérez-Rodríguez, P., Klimentidis, Y. C., Tiwari, H. K., & Vazquez, A. I. (2015). Integrated genomic and BMI analysis for type 2 diabetes risk assessment. Frontiers in Genetics, 6, 75. [link_to_paper]( http://doi.org/10.3389/fgene.2015.00075)
 
-Sichtig, H., …, Lebrón-Aldea, Dayanara, et.al (2018). FDA-ARGOS: A Public Quality-Controlled Genome Database Resource for Infectious Disease Sequencing Diagnostics and Regulatory Science Research, Nature Communications. doi: 10.1101/482059 [link_to_paper](https://www.biorxiv.org/content/early/2018/11/29/482059?utm_source=Nature_website&utm_medium=Website_links&utm_content=SamZim-Nature-Nature_Comms-Multidisciplinary-Global&utm_campaign=NATCOMMS_AWA_NC-UNDER-CONSID)
+- Thissen, JB …, Lebrón-Aldea, Dayanara, et.al (2018). A novel variant of torque virus 7 identified in patients with Kawasaki disease, Plos One 13(12): e0209683, doi: 10.1371/journal.pone.0209683 [link_to_paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0209683&type=printable) 
+
+- Sichtig, H., …, Lebrón-Aldea, Dayanara, et.al (2018). FDA-ARGOS: A Public Quality-Controlled Genome Database Resource for Infectious Disease Sequencing Diagnostics and Regulatory Science Research, Nature Communications. doi: 10.1101/482059 [link_to_paper](https://www.biorxiv.org/content/early/2018/11/29/482059?utm_source=Nature_website&utm_medium=Website_links&utm_content=SamZim-Nature-Nature_Comms-Multidisciplinary-Global&utm_campaign=NATCOMMS_AWA_NC-UNDER-CONSID)
 
 
 - **Classes in Stats:**
