@@ -23,7 +23,7 @@ My research interests are in: statistical genetics, bioinformatics, data mining 
 - **Classes in Stats:**
 1. Analysis of Variance, Regression Analysis, Data Technologies and Web Applications, Statistical Data Science, Probablity Theory, Into to Mathematical Statistics, Mathematical Statistics, Big Data and High Performance Computing, Multivariate Data Analysis, Time Series Analysis, Categorical Data Analysis, Statistics Methods I, Statistics Methods II, Machine Learning, Computational Statistics (Stochastic Methods), Survival Analysis, Bioinformatics, Advanced Topics in Biostatistics.
 
-### Interested in my resume? You can download it here: [resume](dlebron12.github.io/Resume_2018.pdf)
+### Interested in my resume? You can download it here: [resume](dlebron12.github.io/CV_2019.pdf)
 
 # Projects:
 ### **Exploring Stock Correlation of the S&P 500 Index** 
@@ -36,7 +36,6 @@ You can follow in depth this project by redirecting to its page:[Stock_Correlati
 - Example: Comparing three stocks in Information and Technology over Time. 
 <div>
     <a href="https://plot.ly/~dayi1292/4/?share_key=Qo6vZYAS97BNerSYNPMJD9" target="_blank" title="google-stock_scatter" style="display: block; text-align: center;"><img src="https://plot.ly/~dayi1292/4.png?share_key=Qo6vZYAS97BNerSYNPMJD9" alt="google-stock_scatter" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="dayi1292:4" sharekey-plotly="Qo6vZYAS97BNerSYNPMJD9" src="https://plot.ly/embed.js" async></script>
 </div>
 
 
