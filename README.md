@@ -7,7 +7,7 @@
 
 Hello All! and Welcome to my Github Repo. It is under construction as of now, as I am reviewing all of my data science/statistical projects available to enable a better presentation and understanding of the results. 
 
-A little about me, I possess a MS in Statistics with a Data Science Track from the University of California, Davis. I also achieved a Bachelors degree in Applied Mathematics to Biology (Bio-Statistics).  My skills allow me to excel in jobs related to Data Science, Statistics and Programming. 
+A little about me, I possess a MS in Statistics with a Data Science Track from the University of California, Davis. I also achieved a Bachelors degree in Applied Mathematics to Biology (Bio-Mathematics).  My skills allow me to excel in jobs related to Data Science, Statistics and Programming. 
 
 My research interests are in: statistical genetics, bioinformatics, data mining and machine learning.  Overall, no matter what the application is, I am just passionate about data analysis and the insight data can gives us to solve real problems.  I like to think of myself as a passionate problem-solver; although I tend to be forgetful at times.  Nevertheless, I am very passionate about my work, more so that I tend to forget time exists when I delve into solving a problem. It can be thrilling!
 
