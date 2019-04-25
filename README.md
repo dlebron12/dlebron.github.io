@@ -5,9 +5,11 @@
   <img src="https://www.gemfellowship.org/wp-content/uploads/2016/07/Lebron-Dayanara.jpg" alt="My-pic"/>
 </p>
 
-I a Statistics Master's student alumni of University of California, Davis. I also possess a bachelors degree in Bio-Mathematics from the Universidad Metropolitana, Cupey Campus in Puerto Rico.
+Hello All! and Welcome to my Github Repo. It is under construction as of now, as I am reviewing all of my data science/statistical projects available to enable a better presentation and understanding of the results. 
 
-My research interests are in: statistical genetics, bioinformatics, data mining and machine learning.  Overall, no matter what the application is, I am just passionate about data analysis and the insight data can gives us to solve several problems.  I like to think of myself as a passionate problem-solver; I tend to forget time actually exists once I am embedded in finding a solution. It can be thrilling!
+A little about me, I possess a MS in Statistics with a Data Science Track from the University of California, Davis. I also achieved a Bachelors degree in Applied Mathematics to Biology (Bio-Statistics).  My skills allow me to excel in jobs related to Data Science, Statistics and Programming. 
+
+My research interests are in: statistical genetics, bioinformatics, data mining and machine learning.  Overall, no matter what the application is, I am just passionate about data analysis and the insight data can gives us to solve real problems.  I like to think of myself as a passionate problem-solver; although I tend to be forgetful at times.  Nevertheless, I am very passionate about my work, more so that I tend to forget time exists when I delve into solving a problem. It can be thrilling!
 
 **CS Skills:** C++, R, Perl, Bash and Python! 
 
