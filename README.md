@@ -32,6 +32,8 @@ General Biology I, General Biology II, General Chemistry I, General Chemistry II
 - **Classes in Mathematics:**
 Precalculus I, PreCalculus II, Calculus I, Calculus II, Calculus III, Differential Equations, Advanced Applied Mathematics, Applied Mathematics for Phycisists, Mathematical Modelling, Probability and Statistics Numerical Analysis and Introduction to Statistics.
 
+# Awards 
+
 
 # Projects:
 ### **Exploring Stock Correlation of the S&P 500 Index** 
@@ -50,10 +52,9 @@ You can follow in depth this project by redirecting to its page:[Stock_Correlati
 
 ## Bioinformatics Applications: Livermore Metagenomics Analysis Toolkit 2015 Update
 
-This project focused in updating the database to add new strain taxonomical information. A very important part of the task was to see how our actual database would predict these new strains, in order to see if we needed to actually add them or if keeping the information at specie level was enough to detect these strains variations.  You will see several scripts where we confirm that the correct identification from LMAT was made by BLAST-ing the sequence.  Most of the scripts there are mostly for data mining (i.e downloading massive amount of data from ncbi, extracting the BLAST hits and compiling in a table and etc.)
+This project focused in updating the database to add new strain taxonomical information. A very important part of the task was to see how our actual database would predict these new strains, in order to see if we needed to actually add them or if keeping the information at specie level was enough to detect these strains variations.  You will see several scripts where we confirm that the correct identification from LMAT was made by BLAST-ing the sequence.  Most of the scripts there are mostly for data mining (i.e downloading massive amount of data from ncbi, extracting the BLAST hits and compiling in a table and etc.) Please see the summarized work in the poster below, scripts are in this repo [lmat-2015update](https://github.com/dlebron12/lmat-2015update)
 
-
-
+![](dlebron12.github.io/Poster_Expo2016.jea.pdf)
 
 
 
