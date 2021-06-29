@@ -70,7 +70,7 @@ You can follow in depth this project by redirecting to its page:[Stock_Correlati
 
 This project focused in updating the database to add new strain taxonomical information. A very important part of the task was to see how our actual database would predict these new strains, in order to see if we needed to actually add them or if keeping the information at specie level was enough to detect these strains variations.  You will see several scripts where we confirm that the correct identification from LMAT was made by BLAST-ing the sequence.  Most of the scripts there are mostly for data mining (i.e downloading massive amount of data from ncbi, extracting the BLAST hits and compiling in a table and etc.) Please see the summarized work in the poster below, scripts are in this repo [lmat-2015update](https://github.com/dlebron12/lmat-2015update)
 
-![](dlebron12.github.io/Poster_Expo2016.jea.pdf)
+![](dlebron12.github.io/Poster_Expo2016.png)
 
 
 
