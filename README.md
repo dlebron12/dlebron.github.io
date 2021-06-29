@@ -5,13 +5,13 @@
   <img src="https://www.gemfellowship.org/wp-content/uploads/2016/07/Lebron-Dayanara.jpg" alt="My-pic"/>
 </p>
 
-Hello All! and Welcome to my Github Repo. It is under construction as of now, as I am reviewing all of my data science/statistical projects available to enable a better presentation and understanding of the results. 
+Hello All! and Welcome to my Github Repo.
 
 A little about me, I possess a MS in Statistics with a Data Science Track from the University of California, Davis. I also achieved a Bachelors degree in Applied Mathematics to Biology (Bio-Mathematics).  My skills allow me to excel in jobs related to Data Science, Statistics and Programming. 
 
 My research interests are in: statistical genetics, bioinformatics, data mining and machine learning.  Overall, no matter what the application is, I am just passionate about data analysis and the insight data can gives us to solve real problems.  I like to think of myself as a passionate problem-solver; although I tend to be forgetful at times.  Nevertheless, I am very passionate about my work, more so that I tend to forget time exists when I delve into solving a problem. It can be thrilling!
 
-**CS Skills:** C++, R, Perl, Bash and Python! 
+**CS Skills:** C++, R, Perl, Bash, SQL and Python! 
 
 **Published Papers:**
 
@@ -21,11 +21,17 @@ My research interests are in: statistical genetics, bioinformatics, data mining 
 
 - Sichtig, H., …, Lebrón-Aldea, Dayanara, et.al (2018). FDA-ARGOS: A Public Quality-Controlled Genome Database Resource for Infectious Disease Sequencing Diagnostics and Regulatory Science Research, Nature Communications. doi: 10.1101/482059 [link_to_paper](https://www.biorxiv.org/content/early/2018/11/29/482059?utm_source=Nature_website&utm_medium=Website_links&utm_content=SamZim-Nature-Nature_Comms-Multidisciplinary-Global&utm_campaign=NATCOMMS_AWA_NC-UNDER-CONSID)
 
+***Compiled Classes from Masters and Bachelors*** 
 
 - **Classes in Stats:**
-1. Analysis of Variance, Regression Analysis, Data Technologies and Web Applications, Statistical Data Science, Probablity Theory, Into to Mathematical Statistics, Mathematical Statistics, Big Data and High Performance Computing, Multivariate Data Analysis, Time Series Analysis, Categorical Data Analysis, Statistics Methods I, Statistics Methods II, Machine Learning, Computational Statistics (Stochastic Methods), Survival Analysis, Bioinformatics, Advanced Topics in Biostatistics.
+Analysis of Variance, Regression Analysis, Data Technologies and Web Applications, Statistical Data Science, Probablity Theory, Into to Mathematical Statistics, Mathematical Statistics, Big Data and High Performance Computing, Multivariate Data Analysis, Time Series Analysis, Categorical Data Analysis, Statistics Methods I, Statistics Methods II, Machine Learning, Computational Statistics (Stochastic Methods), Survival Analysis, Bioinformatics, Advanced Topics in Biostatistics.
 
-### Interested in my resume? You can download it here: [resume](dlebron12.github.io/CV_2019.pdf)
+- **Classes in Science:** 
+General Biology I, General Biology II, General Chemistry I, General Chemistry II, Genetics, Ecology, Human Evolution, Human Biology I, Human Biology II, Psychology I, Psychology II, Introduction to Biostatistics, General Physics I, General Physics II, Introduction to Programming Structures in C++, Object Oriented Programming in C++. 
+
+- **Classes in Mathematics:**
+Precalculus I, PreCalculus II, Calculus I, Calculus II, Calculus III, Differential Equations, Advanced Applied Mathematics, Applied Mathematics for Phycisists, Mathematical Modelling, Probability and Statistics Numerical Analysis and Introduction to Statistics.
+
 
 # Projects:
 ### **Exploring Stock Correlation of the S&P 500 Index** 
@@ -41,14 +47,13 @@ You can follow in depth this project by redirecting to its page:[Stock_Correlati
 </div>
 
 
-### Detecting Credit Fraud 
 
-[CreditCardFraud](https://github.com/dlebron12/CreditCardFraud)
+## Bioinformatics Applications: Livermore Metagenomics Analysis Toolkit 2015 Update
+
+This project focused in updating the database to add new strain taxonomical information. A very important part of the task was to see how our actual database would predict these new strains, in order to see if we needed to actually add them or if keeping the information at specie level was enough to detect these strains variations.  You will see several scripts where we confirm that the correct identification from LMAT was made by BLAST-ing the sequence.  Most of the scripts there are mostly for data mining (i.e downloading massive amount of data from ncbi, extracting the BLAST hits and compiling in a table and etc.)
 
 
 
-### Twitter Sentiment Analysis: Use of Classification Models for Inappropiate Tweet Content with Validation on Trump Tweets.
-[Twitter_Sentiment_Analysis](https://github.com/dlebron12/Twitter_Sentiment_Trump)
 
 
 
