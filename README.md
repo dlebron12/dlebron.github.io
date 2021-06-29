@@ -77,8 +77,4 @@ This project focused in updating the database to add new strain taxonomical info
 ## Thanks for visiting! 
 
 For more descriptions of other projects and current position and responsabilities, please go to my LinkedIN page. 
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="dayanara-lebron" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dayanara-lebron?trk=profile-badge">Dayanara Lebron-Aldea</a></div>
               
