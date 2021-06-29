@@ -32,7 +32,23 @@ General Biology I, General Biology II, General Chemistry I, General Chemistry II
 - **Classes in Mathematics:**
 Precalculus I, PreCalculus II, Calculus I, Calculus II, Calculus III, Differential Equations, Advanced Applied Mathematics, Applied Mathematics for Phycisists, Mathematical Modelling, Probability and Statistics Numerical Analysis and Introduction to Statistics.
 
-# Awards 
+# Awards:
+- 2016 Travel Fellowship for BPDM Workshops and KDD Conference (awarded to only 10% of applicants)
+- 2016 -2017 GEM Fellowship - Full Fellow (LLNL-UCDAVIS)
+- 2016-2017 NSF Research Training Group Grant
+- Acceptance to University of California at Davis Statistics Graduate Program
+- 2015 LLNL Poster Symposium - Most Outstanding Poster Presentation in Computation.
+- 2013 UAB Research Expo (Third Place) Best Poster Presentation in Public Health
+- 2013 MGE@MSA/WAESO Research Conference - Honorable Mention for Poster Presentation
+- 2012 AGMUS Research Symposium Best Poster Presentation in Biostatistics
+- 2012-2014 Mathematics Alliance Scholar
+- 2011-2014 NSF Bio-Mathematics Scholarship
+- Spring 2011: AGMUS Bio-Mathematics Excellence List
+- 2011 SACNAS National Conference Best Poster Presentation in Applied Mathematics.
+- 2011 Model Institute of Excellence (MIE) Award
+- Travel Awards: SACNAS 2011 National Conference; BKX 69th Annual Conference; MGE@MSA/WAESO
+Conference; SACNAS 2012 National Conference; 2013 Richard Tapia Conference; 71th Joint Annual NIS and
+BKC Conference; Joint Mathematical Meeting 2015 and 2014 Field of Dreams.
 
 
 # Projects:
