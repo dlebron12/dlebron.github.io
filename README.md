@@ -66,12 +66,17 @@ You can follow in depth this project by redirecting to its page:[Stock_Correlati
 
 
 
-## Bioinformatics Applications: Livermore Metagenomics Analysis Toolkit 2015 Update
+## Bioinformatics Applications: 
+### Livermore Metagenomics Analysis Toolkit 2015 Update
 
 This project focused in updating the database to add new strain taxonomical information. A very important part of the task was to see how our actual database would predict these new strains, in order to see if we needed to actually add them or if keeping the information at specie level was enough to detect these strains variations.  You will see several scripts where we confirm that the correct identification from LMAT was made by BLAST-ing the sequence.  Most of the scripts there are mostly for data mining (i.e downloading massive amount of data from ncbi, extracting the BLAST hits and compiling in a table and etc.) Please see the summarized work in the poster below, scripts are in this repo [lmat-2015update](https://github.com/dlebron12/lmat-2015update)
 
-![](https://github.com/dlebron12/dlebron12.github.io/blob/master/Poster_Expo2016.png)
+![link_to_poster](https://github.com/dlebron12/dlebron12.github.io/blob/master/Poster_Expo2016.png)
 
+## Detection of Bias in Coverage for RNA-Seq
+This script uses a piecewise linear regression approach to detecting biases in coverage in thne 5' or 3' end.  Thresholds were drawn based on specifications for internal products.  
+
+See the script here: https://github.com/dlebron12/Coverage_Bias_Detection
 
 
 ## Thanks for visiting! 
