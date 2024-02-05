@@ -4,3 +4,4 @@ plugins:
 title: Dayanara's Portfolio 
 text-align: center;
 description: Welcome to my website! 
+show_downloads: "true"
