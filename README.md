@@ -2,7 +2,7 @@
 # About Me: 
 
 <p align="center">
-  <img src="https://www.gemfellowship.org/wp-content/uploads/2016/07/Lebron-Dayanara.jpg" alt="My-pic"/>
+  <img src="https://github.com/dlebron12/dlebron12.github.io/blob/3d14c2b84bee278aaa867eebdc1997116ced685c/73B075AD-253A-41F3-B8B6-D0BCAD43E5E6.jpg" alt="My-pic"/>
 </p>
 
 Hello All! and Welcome to my Github Repo.
