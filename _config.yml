@@ -1,7 +1,6 @@
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme
-domain: daya_lebron.github.io
 title: Dayanara's Portfolio 
 text-align: center;
 description: Welcome to my website! 
