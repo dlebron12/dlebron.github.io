@@ -5,13 +5,19 @@
   <img src="https://github.com/dlebron12/dlebron12.github.io/blob/3d14c2b84bee278aaa867eebdc1997116ced685c/73B075AD-253A-41F3-B8B6-D0BCAD43E5E6.jpg" alt="My-pic"/>
 </p>
 
-Hello All! and Welcome to my Github Repo.
+Wepa! Welcome to my Github Repo.
 
-A little about me, I possess a MS in Statistics with a Data Science Track from the University of California, Davis. I also achieved a Bachelors degree in Applied Mathematics to Biology (Bio-Mathematics).  My skills allow me to excel in jobs related to Data Science, Statistics and Programming. 
+**About Me**
 
-My research interests are in: statistical genetics, bioinformatics, data mining and machine learning.  Overall, no matter what the application is, I am just passionate about data analysis and the insight data can gives us to solve real problems.  I like to think of myself as a passionate problem-solver; although I tend to be forgetful at times.  Nevertheless, I am very passionate about my work, more so that I tend to forget time exists when I delve into solving a problem. It can be thrilling!
+I was born and raised in Puerto Rico; and was a first-gen college student.  Since I was little I was very interested and passionate about mathematics, with this being my favorite subject.  When the time came to decide what I wanted to do going forward, I knew education was the way to give my life a deeper sense of purpose.  The decision ultimately came to study Mathematics or Psychology as both topics were really appealing to me.  I participated in a Saturday Research Academy at the _Universidad Metropolitana_ in San Juan, P.R where I was able to do my first research in Biostatistics.  This was a pivotal moment in my life.  The moment where I learned about this fascinating branch of mathematics, with myriad of important and real impact applications.
 
-**CS Skills:** C++, R, Perl, Bash, SQL and Python! 
+Therefore, I decided to pursue a bachelors degree in Applied Mathematics to Biology (as this was the closest curriculum to Statistics, avaliable in my university).  On 2015, I graduated with a B.S having a first-author peer reviewed publication in Genetical Statistics, having also participated in 4 summer internships in various universities in the U.S and also being an experienced 2 year Mentor Teacher at the same Research Academy that granted me so much.
+
+Today, I hold a M.S in Statistics with a Data Science Track from the University of California, Davis. I have co-authored 2 papers with the Department of Health from Oasaka, Japan and the FDA.  In addition, possess 4 years working as a Data Scientist for one of the top Government Laboratories in the U.S and 4 more years of experience in product development in the biotech industry.  My skills have allow me to excel in jobs related to Data Science, Genomics, Teaching, Software Development and Project Management. 
+
+My research interests are in: statistical genetics, bioinformatics, data mining and machine learning.  Overall, no matter what the application is, I am just passionate about data analysis and the insight data can gives us to solve real problems.  I am very passionate about my work, and like to bring a very positive attitute at work and to those that work around me.
+
+**CS Skills:** Python, R, SQL, Bash, Perl.  Used to program in C++ and MatLab but it has been a long while. 
 
 **Published Papers:**
 
@@ -49,37 +55,3 @@ Precalculus I, PreCalculus II, Calculus I, Calculus II, Calculus III, Differenti
 - Travel Awards: SACNAS 2011 National Conference; BKX 69th Annual Conference; MGE@MSA/WAESO
 Conference; SACNAS 2012 National Conference; 2013 Richard Tapia Conference; 71th Joint Annual NIS and
 BKC Conference; Joint Mathematical Meeting 2015 and 2014 Field of Dreams.
-
-
-# Projects:
-### **Exploring Stock Correlation of the S&P 500 Index** 
-This project was done in collaboration with Tongke Wu and Wenquian Li.  It focuses on the analyis of the close stock prices for the S&P 500 for the years 2008-2016. We explored this data by looking at trends of sectors over the years, correlations among stocks and exploring the diverse applications such as portfolio selection, and its performance in the market.  Our dataset allowed us to observe the effect that crisis has on the market, and also how stock are interrelated through the use of network visualizations and relatedness statistics. 
-
-You can follow in depth this project by redirecting to its page:[Stock_Correlation](https://verali0816.github.io/Stock-Correlation/)
-
-![](dlebron12.github.io/corr_2010_s1.png)
-
-- Example: Comparing three stocks in Information and Technology over Time. 
-<div>
-    <a href="https://plot.ly/~dayi1292/4/?share_key=Qo6vZYAS97BNerSYNPMJD9" target="_blank" title="google-stock_scatter" style="display: block; text-align: center;"><img src="https://plot.ly/~dayi1292/4.png?share_key=Qo6vZYAS97BNerSYNPMJD9" alt="google-stock_scatter" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-</div>
-
-
-
-## Bioinformatics Applications: 
-### Livermore Metagenomics Analysis Toolkit 2015 Update
-
-This project focused in updating the database to add new strain taxonomical information. A very important part of the task was to see how our actual database would predict these new strains, in order to see if we needed to actually add them or if keeping the information at specie level was enough to detect these strains variations.  You will see several scripts where we confirm that the correct identification from LMAT was made by BLAST-ing the sequence.  Most of the scripts there are mostly for data mining (i.e downloading massive amount of data from ncbi, extracting the BLAST hits and compiling in a table and etc.) Please see the summarized work in the poster below, scripts are in this repo [lmat-2015update](https://github.com/dlebron12/lmat-2015update)
-
-[link_to_poster](https://github.com/dlebron12/dlebron12.github.io/raw/master/Poster_Expo2016.png)
-
-## Detection of Bias in Coverage for RNA-Seq
-This script uses a piecewise linear regression approach to detecting biases in coverage in thne 5' or 3' end.  Thresholds were drawn based on specifications for internal products.  
-
-See the script here: https://github.com/dlebron12/Coverage_Bias_Detection
-
-
-## Thanks for visiting! 
-
-For more descriptions of other projects and current position and responsabilities, please go to my LinkedIN page. 
-              
